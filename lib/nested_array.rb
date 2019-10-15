@@ -25,7 +25,7 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  assembled_matrix[0][0]
+  assembled_matrix[1][0]
 end
 
 def matrix_update(matrix, row, column, new_value)
