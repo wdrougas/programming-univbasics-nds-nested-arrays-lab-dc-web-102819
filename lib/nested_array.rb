@@ -16,9 +16,8 @@ ENFIELD_TENNIS_ACADEMY = [
   "Michael Pemulis"
 ]
 
-def assembled_matrix [
-  ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
- 
+def assembled_matrix 
+  [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
 end
 
 def array_literal_matrix
