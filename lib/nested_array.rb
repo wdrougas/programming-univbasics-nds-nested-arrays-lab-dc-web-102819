@@ -24,7 +24,13 @@ def assembled_matrix [
   "Kate Gompert",
   "Bruce Green"
 ],
-
+[
+  "Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"
+]
 ]
  
 end
